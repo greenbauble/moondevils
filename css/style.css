@@ -1,0 +1,546 @@
+
+
+/* Background Colors */
+
+.black {
+	background-color: #000;
+}
+
+.yellow {
+	background-color: #FF0;
+}
+
+.red {
+	background-color: #ff0000;
+}
+
+.purple {
+	background-color: #e400ff;
+}
+
+.gold {
+	background-color: #eee1c6;
+}
+
+.gray {
+	background-color: #999;
+}
+
+.brown {
+	background-color: #630;
+}
+
+.green {
+	background-color: #c0ff00;
+}
+
+.blue {
+	background-color: #00d2ff;
+}
+
+/* Background Images */
+
+
+.morning #the-sky {
+	background-image:url(../images/backdrops/sky-morning.gif);
+}
+
+.afternoon #the-sky {
+	background-image:url(../images/backdrops/sky-afternoon.gif);
+}
+
+
+.dusk #the-sky {
+	background-image:url(../images/backdrops/sky-dusk.gif);
+}
+
+.morning #forest, .morning .wrecks-forest  {
+	background-image:url(../images/backdrops/forest-morning.gif);
+}
+
+.afternoon #forest, .afternoon  .wrecks-forest {
+	background-image:url(../images/backdrops/forest-afternoon.gif);
+}
+
+.dusk #forest, .dusk  .wrecks-forest {
+	background-image:url(../images/backdrops/forest-dusk.gif);
+}
+
+.morning #temple, .morning .wrecks-temple {
+	background-image:url(../images/backdrops/temple-morning.gif);
+}
+
+.afternoon #temple, .afternoon  .wrecks-temple  {
+	background-image:url(../images/backdrops/temple-afternoon.gif);
+}
+
+.dusk #temple, .dusk  .wrecks-temple  {
+	background-image:url(../images/backdrops/temple-dusk.gif);
+}
+
+.morning #mountain, .morning .wrecks-mountain {
+	background-image:url(../images/backdrops/mountain-morning.gif);
+}
+
+.afternoon #mountain, .afternoon .wrecks-mountain {
+	background-image:url(../images/backdrops/mountain-afternoon.gif);
+}
+
+.dusk #mountain, .dusk .wrecks-mountain {
+	background-image:url(../images/backdrops/mountain-dusk.gif);
+}
+
+
+#opening-sequence, #night, #final-night, #death {
+	background-image: url(../images/backdrops/space.gif);
+	color: #999 !important;
+}
+
+#shuttle, #shuttle-interior {
+	background-image: url(../images/backdrops/shuttle-blue.gif);
+}
+
+
+/* Panel Backgrounds */
+
+.fire1 {
+	background-image: url(../images/backgrounds/fire1.gif);	
+}
+
+.fire2 {
+	background-image: url(../images/backgrounds/fire2.gif);	
+}
+
+.fire3 {
+	background-image: url(../images/backgrounds/fire3.gif);	
+}
+
+.bricks1 {
+	background-image: url(../images/backgrounds/bricks1.gif);	
+}
+
+.bricks2 {
+	background-image: url(../images/backgrounds/bricks2.gif);	
+}
+
+.bricks3 {
+	background-image: url(../images/backgrounds/bricks3.gif);	
+}
+
+.water1 {
+	background-image: url(../images/backgrounds/water-1.gif);	
+}
+
+.water2 {
+	background-image: url(../images/backgrounds/water-2.gif);	
+}
+
+.water3 {
+	background-image: url(../images/backgrounds/water-3.gif);	
+}
+
+.stars {
+	background-image:url(../images/other/space2.png);
+}
+
+.slate1 {
+	background-image: url(../images/backgrounds/slate-1.gif);	
+}
+
+.slate2 {
+	background-image: url(../images/backgrounds/slate-2.gif);	
+}
+
+.slate3 {
+	background-image: url(../images/backgrounds/slate-3.gif);	
+}
+
+.slate4 {
+	background-image: url(../images/backgrounds/slate-4.gif);	
+}
+
+.slate5 {
+	background-image: url(../images/backgrounds/slate-5.gif);	
+}
+
+.slate6 {
+	background-image: url(../images/backgrounds/slate-6.gif);	
+}
+
+.night1 {
+	background-image: url(../images/backgrounds/night-1.gif);	
+}
+
+.night2 {
+	background-image: url(../images/backgrounds/night-2.gif);	
+}
+
+.night3 {
+	background-image: url(../images/backgrounds/night-3.gif);	
+}
+
+.night4 {
+	background-image: url(../images/backgrounds/night-4.gif);	
+}
+
+.night5 {
+	background-image: url(../images/backgrounds/night-5.gif);	
+}
+
+.night6 {
+	background-image: url(../images/backgrounds/night-6.gif);	
+}
+
+
+/* Morning */
+
+.morning {
+	color: black;
+}
+
+.morning .sky1 {
+	background-color: #f5d4ff;
+	background-image: url(../images/backgrounds/sky-1-morning.gif);
+}
+
+.morning .sky2 {
+	background-color: #f5d4ff;
+	background-image: url(../images/backgrounds/sky-2-morning.gif);
+}
+
+.morning .sky3 {
+	background-color: #f5d4ff;
+	background-image: url(../images/backgrounds/sky-3-morning.gif);
+}
+
+.morning .sky4 {
+	background-color: #f5d4ff;
+	background-image: url(../images/backgrounds/sky-4-morning.gif);
+}
+
+.morning .sky5 {
+	background-color: #f5d4ff;
+	background-image: url(../images/backgrounds/sky-5-morning.gif);
+}
+
+.morning .sky6 {
+	background-color: #f5d4ff;
+	background-image: url(../images/backgrounds/sky-6-morning.gif);
+}
+
+.morning .stone1 {
+	background-image: url(../images/backgrounds/stone-1-morning.gif);
+}
+
+.morning .stone2 {
+	background-image: url(../images/backgrounds/stone-2-morning.gif);
+}
+
+
+.morning .stone3 {
+	background-image: url(../images/backgrounds/stone-3-morning.gif);
+}
+
+.morning .stone4 {
+	background-image: url(../images/backgrounds/stone-4-morning.gif);
+}
+
+
+.morning .stone5 {
+	background-image: url(../images/backgrounds/stone-5-morning.gif);
+}
+
+.morning .stone6 {
+	background-image: url(../images/backgrounds/stone-6-morning.gif);
+}
+
+
+.morning .stone7 {
+	background-image: url(../images/backgrounds/stone-7-morning.gif);
+}
+
+.morning .stone8 {
+	background-image: url(../images/backgrounds/stone-8-morning.gif);
+}
+
+.morning .stone9 {
+	background-image: url(../images/backgrounds/stone-9-morning.gif);
+}
+
+.morning .brush1 {
+	background-image: url(../images/backgrounds/brush-1-morning.gif);
+}
+
+.morning .brush2 {
+	background-image: url(../images/backgrounds/brush-2-morning.gif);
+}
+
+
+.morning .brush3 {
+	background-image: url(../images/backgrounds/brush-3-morning.gif);
+}
+
+.morning .brush4 {
+	background-image: url(../images/backgrounds/brush-4-morning.gif);
+}
+
+
+.morning .brush5 {
+	background-image: url(../images/backgrounds/brush-5-morning.gif);
+}
+
+.morning .brush6 {
+	background-image: url(../images/backgrounds/brush-6-morning.gif);
+}
+
+
+.morning .brush7 {
+	background-image: url(../images/backgrounds/brush-7-morning.gif);
+}
+
+.morning .brush8 {
+	background-image: url(../images/backgrounds/brush-8-morning.gif);
+}
+
+.morning .brush9 {
+	background-image: url(../images/backgrounds/brush-9-morning.gif);
+}
+
+
+/* afternoon */
+
+.afternoon {
+	color: black;
+}
+
+.afternoon .sky1 {
+	background-color: #db66ff;
+	background-image: url(../images/backgrounds/sky-1-afternoon.gif);
+}
+
+.afternoon .sky2 {
+	background-color: #db66ff;
+		background-image: url(../images/backgrounds/sky-2-afternoon.gif);
+}
+
+.afternoon .sky3 {
+	background-color: #db66ff;
+		background-image: url(../images/backgrounds/sky-3-afternoon.gif);
+}
+
+.afternoon .sky4 {
+	background-color: #db66ff;
+		background-image: url(../images/backgrounds/sky-4-afternoon.gif);
+}
+
+.afternoon .sky5 {
+	background-color: #db66ff;
+		background-image: url(../images/backgrounds/sky-5-afternoon.gif);
+}
+
+.afternoon .sky6 {
+	background-color: #db66ff;
+		background-image: url(../images/backgrounds/sky-6-afternoon.gif);
+}
+
+.afternoon .stone1 {
+	background-image: url(../images/backgrounds/stone-1-afternoon.gif);
+}
+
+.afternoon .stone2 {
+	background-image: url(../images/backgrounds/stone-2-afternoon.gif);
+}
+
+
+.afternoon .stone3 {
+	background-image: url(../images/backgrounds/stone-3-afternoon.gif);
+}
+
+.afternoon .stone4 {
+	background-image: url(../images/backgrounds/stone-4-afternoon.gif);
+}
+
+
+.afternoon .stone5 {
+	background-image: url(../images/backgrounds/stone-5-afternoon.gif);
+}
+
+.afternoon .stone6 {
+	background-image: url(../images/backgrounds/stone-6-afternoon.gif);
+}
+
+
+.afternoon .stone7 {
+	background-image: url(../images/backgrounds/stone-7-afternoon.gif);
+}
+
+.afternoon .stone8 {
+	background-image: url(../images/backgrounds/stone-8-afternoon.gif);
+}
+
+.afternoon .stone9 {
+	background-image: url(../images/backgrounds/stone-9-afternoon.gif);
+}
+
+.afternoon .brush1 {
+	background-image: url(../images/backgrounds/brush-1-afternoon.gif);
+}
+
+.afternoon .brush2 {
+	background-image: url(../images/backgrounds/brush-2-afternoon.gif);
+}
+
+
+.afternoon .brush3 {
+	background-image: url(../images/backgrounds/brush-3-afternoon.gif);
+}
+
+.afternoon .brush4 {
+	background-image: url(../images/backgrounds/brush-4-afternoon.gif);
+}
+
+
+.afternoon .brush5 {
+	background-image: url(../images/backgrounds/brush-5-afternoon.gif);
+}
+
+.afternoon .brush6 {
+	background-image: url(../images/backgrounds/brush-6-afternoon.gif);
+}
+
+
+.afternoon .brush7 {
+	background-image: url(../images/backgrounds/brush-7-afternoon.gif);
+}
+
+.afternoon .brush8 {
+	background-image: url(../images/backgrounds/brush-8-afternoon.gif);
+}
+
+.afternoon .brush9 {
+	background-image: url(../images/backgrounds/brush-9-afternoon.gif);
+}
+
+
+/* dusk */
+
+.dusk, #shuttle, #shuttle-interior {
+	color: white;
+}
+
+.dusk .sky1 {
+		background-image: url(../images/backgrounds/sky-1-dusk.gif);
+}
+
+.dusk .sky2 {
+	background-image: url(../images/backgrounds/sky-2-dusk.gif);
+}
+
+.dusk .sky3 {
+	background-color: #ad00e1;
+	background-image: url(../images/backgrounds/sky-3-dusk.gif);
+}
+
+.dusk .sky4 {
+	background-color: #ad00e1;
+	background-image: url(../images/backgrounds/sky-4-dusk.gif);
+}
+
+.dusk .sky5 {
+	background-color: #ad00e1;
+	background-image: url(../images/backgrounds/sky-5-dusk.gif);
+}
+
+.dusk .sky6 {
+	background-color: #ad00e1;
+	background-image: url(../images/backgrounds/sky-6-dusk.gif);
+}
+
+.dusk .stone1 {
+	background-image: url(../images/backgrounds/stone-1-dusk.gif);
+}
+
+.dusk .stone2 {
+	background-image: url(../images/backgrounds/stone-2-dusk.gif);
+}
+
+
+.dusk .stone3 {
+	background-image: url(../images/backgrounds/stone-3-dusk.gif);
+}
+
+.dusk .stone4 {
+	background-image: url(../images/backgrounds/stone-4-dusk.gif);
+}
+
+
+.dusk .stone5 {
+	background-image: url(../images/backgrounds/stone-5-dusk.gif);
+}
+
+.dusk .stone6 {
+	background-image: url(../images/backgrounds/stone-6-dusk.gif);
+}
+
+
+.dusk .stone7 {
+	background-image: url(../images/backgrounds/stone-7-dusk.gif);
+}
+
+.dusk .stone8 {
+	background-image: url(../images/backgrounds/stone-8-dusk.gif);
+}
+
+.dusk .stone9 {
+	background-image: url(../images/backgrounds/stone-9-dusk.gif);
+}
+
+.dusk .brush1 {
+	background-image: url(../images/backgrounds/brush-1-dusk.gif);
+}
+
+.dusk .brush2 {
+	background-image: url(../images/backgrounds/brush-2-dusk.gif);
+}
+
+
+.dusk .brush3 {
+	background-image: url(../images/backgrounds/brush-3-dusk.gif);
+}
+
+.dusk .brush4 {
+	background-image: url(../images/backgrounds/brush-4-dusk.gif);
+}
+
+
+.dusk .brush5 {
+	background-image: url(../images/backgrounds/brush-5-dusk.gif);
+}
+
+.dusk .brush6 {
+	background-image: url(../images/backgrounds/brush-6-dusk.gif);
+}
+
+
+.dusk .brush7 {
+	background-image: url(../images/backgrounds/brush-7-dusk.gif);
+}
+
+.dusk .brush8 {
+	background-image: url(../images/backgrounds/brush-8-dusk.gif);
+}
+
+.dusk .brush9 {
+	background-image: url(../images/backgrounds/brush-9-dusk.gif);
+}
+
+/* Night */
+
+.night {
+	color: #999;
+	background-color: #000;
+}
+
+
+
+
